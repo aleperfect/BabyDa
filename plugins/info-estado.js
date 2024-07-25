@@ -22,11 +22,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'Readz Aleizn';
+  const wm = 'Baby Day';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* Readz Aleizn
- [#️⃣] *WA:* wa.me/51992621601
+ [🤴🏻] *Prop.:* Baby Day
+ [#️⃣] *WA:* wa.me/+5217561336978
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
@@ -68,8 +68,8 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
-        body: "Readz Aleizn",
+        title: "Baby Day",
+        body: "Baby Day",
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
       },
